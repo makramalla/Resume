@@ -1,8 +1,8 @@
 # Resume
 
-This repo serves as simple dockerized resume that can implemented on any operating system.
+This repo serves as a simple dockerized Resume that can be implemented on any operating system.
 
-To be able to use it you need to have dokcer installed as per [this link](https://docs.docker.com/install/)
+To be able to use it you need to have dokcer installed as per [this link](https://docs.docker.com/install/).
 
 Then just clone the repo and run the following commands from inside the folder:
 
