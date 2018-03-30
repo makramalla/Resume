@@ -55,7 +55,7 @@
     {
       "company": "TREND",
       "position": "Department Manager",
-      "website": ""
+      "website": "",
       "startDate": "2011-02",
       "endDate": "2013-07",
       "summary": "Representative of several multinational Companies in the Egyptian Petroleum Sector, leading a team responsible to follow up on several projects and inquiries with regards to both technical and logistical aspects"
@@ -64,55 +64,54 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "École Centrale Paris",
-      "studyType": "MSc Engineering, Project Management, Leadership, Product Design, Computer Science",
-      "startDate": "2009-09-01",
-      "endDate": "2014-12-30",
+      "institution": "Carleton University",
+      "studyType": "Masters of Engineering, Technology Innovation Management",
+      "startDate": "2013-08",
+      "endDate": "2015-05",
       "gpa": "",
-      "courses": [
-        "Highly selective master’s level engineering school.",
-        "Key subjects studied: Computer Science and Entrepreneurship.",
-        "Studied airplane jet engine noise reduction techniques in 100-hour team project.",
-        "Designed innovative open-source photography browsing UI in 200-hour team project.",
-        "Investigated an innovative self-service car-renting program (Domobile) in 200-hour team project."
-      ]
-    }
+      "courses": []
+    },
+
+{ 
+      "institution": "German University in Cairo",
+      "studyType": "Mechatronics Engineering Bachelors degree",
+      "startDate": "2007-09",
+      "endDate": "2012-06",
+      "gpa": "",
+      "courses": []
+}
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+
+
+
+],
   "skills": [
     {
       "name": "Software development",
       "level": "Master",
       "keywords": [
-        "Ruby on Rails",
-        "Go",
         "Python",
         "HTML / CSS / Javascript",
-        "Typescript",
-        "Angular",
         "Bash",
-        "PostgreSQL",
+        "Unix",
         "Redis",
         "Docker",
         "AWS",
         "Nginx / HAProxy",
-        "FluentD",
-        "Linux",
-        "StatsD",
         "Devops",
         "Networking",
-        "Sysadmin"
+        "Sysadmin",
+	   "Vertulization"
       ]
     },
     {
-      "name": "Entrepreneurship",
+      "name": "Leadership",
       "level": "Master",
       "keywords": [
-        "Project Management / SCRUM",
+        "Project Management",
         "Technical Lead",
-        "Recruiting",
-        "Accounting",
         "Strategy",
         "Culture / Team building",
         "Communication"
@@ -123,31 +122,30 @@
       "level": "Master",
       "keywords": [
         "Routing algorithms",
-        "Statistics",
+        "Opyimization algorithms",
         "Electronics",
-        "DIY"
-      ]
-    },
-    {
-      "name": "Design",
-      "level": "Master",
-      "keywords": [
-        "Product Design",
-        "Photoshop",
-        "Illustrator / Sketch",
-        "Premiere"
+        "Robotics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "French",
+      "language": "Arabic",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
+
   ],
   "interests": [],
   "references": []
