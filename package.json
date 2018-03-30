@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrienkohlbecker/resume.git"
+  },
+  "author": "Adrien Kohlbecker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrienkohlbecker/resume/issues"
+  },
+  "homepage": "https://github.com/adrienkohlbecker/resume#readme",
+  "dependencies": {
+    "log4js": "^0.6.36",
+    "node-static": "^0.7.7",
+    "resume-cli": "^0.4.13",
+    "jsonresume-theme-slick": "^0.1.16"
+  }
+}
